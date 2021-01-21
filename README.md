@@ -1,6 +1,6 @@
 # graph_analytics
 
-This repository is for learning graph analysis and writing articles related to it. 
+This repository is for learning graph analysis and writing articles. 
 Please refer to the following links.
 
 ・[Graph Analytics with Python -Graph Generation-](https://dev.to/karapto/graph-analytics-with-python-graph-generation-10j4)
